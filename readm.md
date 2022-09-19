@@ -1,4 +1,7 @@
 # Github
 
-Curso para iniciante
-Fazendo o curso. e esta complicado
+Estudando e desenvolvendo o curso para iniciante em Git
+Curso muito bom.
+
+
+Ajustando novo texto para teste.

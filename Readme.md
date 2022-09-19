@@ -1,1 +1,4 @@
 # Gitcourse
+
+
+Aprendizado em andamento.
